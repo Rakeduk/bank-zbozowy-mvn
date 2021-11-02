@@ -1,4 +1,4 @@
 # bank-zbozowy-mvn
 
-![example workflow](https://github.com/Rakeduk/bank-zbozowy-mvn/actions
+![bank-zbozowy-mvn](https://github.com/Rakeduk/bank-zbozowy-mvn/actions
 /badge.svg)
